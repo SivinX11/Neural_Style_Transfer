@@ -1,4 +1,4 @@
 # Neural_Style_Transfer
-[![Python](https://img.shields.io/badge/Python-3.8-blue)]() 
+[![Python](https://img.shields.io/badge/Python-3.8.0-blue)]() 
 [![License](https://img.shields.io/github/license/SivinX11/Neural_Style_Transfer)](https://github.com/SivinX11/Neural_Style_Transfer/blob/master/LICENSE) 
 [![Issues](https://img.shields.io/github/issues/SivinX11/Neural_Style_Transfer)]()
