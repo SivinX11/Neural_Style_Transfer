@@ -2,6 +2,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8.0-blue)]() 
 [![License](https://img.shields.io/github/license/SivinX11/Neural_Style_Transfer)](https://github.com/SivinX11/Neural_Style_Transfer/blob/master/LICENSE) 
 [![Issues](https://img.shields.io/github/issues/SivinX11/Neural_Style_Transfer)]()
+
+## Preview Image
 ![banner](https://miro.medium.com/max/1400/1*ThoWfl2TQVCEXm2l8PBaxw.png)
 
 ## Introduction
